@@ -1,0 +1,80 @@
+h3 {
+    text-align: center;
+    color: pink;
+}
+
+.button-yes {
+    margin-left: 35%;
+    margin-rightn: 50%;
+    margin-top: 25px;
+    background-color: #55ff6d;
+    width: 30%;
+    height: 50px;
+    border-radius: 14px 14px 14px 14px;
+    font-size:20px;
+    border: solid 1px #00911a;
+    color:#ffffff;
+    
+}
+
+.button-yes a{
+    text-decoration:none;
+    color:#ffffff;
+}
+
+.button-no {
+    margin-left: 35%;
+    margin-rightn: 50%;
+    margin-top: 25px;
+    background-color: #ff6a7f;
+    width: 30%;
+    height: 20px;
+    border-radius: 14px 14px 14px 14px;
+    font-size:10px;
+    border: solid 1px #ff0034;
+    color:#ffffff;
+    
+}
+
+.button-no a{
+    text-decoration:none;
+    color:#ffffff;
+}
+
+.button-yes-2 {
+    margin-left: 15%;
+    margin-rightn: 50%;
+    margin-top: 25px;
+    background-color: #55ff6d;
+    width: 70%;
+    height: 200px;
+    border-radius: 14px 14px 14px 14px;
+    font-size:45px;
+    border: solid 1px #00911a;
+    color:#ffffff;
+    
+}
+
+.button-yes-2 a{
+    text-decoration:none;
+    color:#ffffff;
+}
+
+.button-no-2 {
+    margin-left: 35%;
+    margin-rightn: 50%;
+    margin-top: 25px;
+    background-color: #ff6a7f;
+    width: 30%;
+    height: 20px;
+    border-radius: 14px 14px 14px 14px;
+    font-size:10px;
+    border: solid 1px #ff0034;
+    color:#ffffff;
+    
+}
+
+.button-no-2 a{
+    text-decoration:none;
+    color:#ffffff;
+}
